@@ -37,4 +37,4 @@ const calAmplitudeNew = function (temp1,temp2) {
     return maxTemp - minTemp;
 }
 const amplitideNew = calAmplitudeNew([1,2,3],[4,5,6]);
-console.log(amplitide);
+console.log(amplitideNew);
